@@ -1,0 +1,12 @@
+lightautoml[cv]
+matplotlib
+numpy
+opencv-python==4.8.1.78
+pandas
+scikit-learn
+seaborn
+torch==2.1.1+cu118
+torchaudio==2.0.2+cu118
+torchvision==0.15.2+cu118
+tqdm
+ultralytics
